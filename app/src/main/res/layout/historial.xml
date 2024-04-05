@@ -14,21 +14,24 @@
         android:fontFamily="@font/comfortaa"
         android:text="HISTORIAL"
         android:textColor="#000000"
-        android:textSize="20sp"
+        android:textSize="25sp"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.161" />
+        app:layout_constraintVertical_bias="0.12" />
 
     <ScrollView
         android:layout_width="309dp"
         android:layout_height="410dp"
         android:layout_marginStart="51dp"
-        android:layout_marginTop="15dp"
+        android:layout_marginTop="64dp"
         android:layout_marginEnd="51dp"
+        android:background="#CDDFED"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView1">
 

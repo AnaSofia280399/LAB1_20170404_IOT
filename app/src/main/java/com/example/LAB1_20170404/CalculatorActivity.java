@@ -1,4 +1,4 @@
-package com.example.repaso_1;
+package com.example.LAB1_20170404;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -12,7 +12,7 @@ import android.widget.Toast;
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 
-import com.example.repaso_1.databinding.CalcularBinding;
+import com.example.LAB1_20170404.databinding.CalcularBinding;
 
 import java.util.ArrayList;
 import java.util.Arrays;

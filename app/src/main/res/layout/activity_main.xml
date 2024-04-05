@@ -95,17 +95,18 @@
         android:id="@+id/textView"
         android:layout_width="408dp"
         android:layout_height="68dp"
-        android:layout_marginBottom="664dp"
         android:background="#D7D7D7"
         android:fontFamily="@font/comfortaa"
-        android:paddingTop="16dp"
+        android:paddingTop="10dp"
         android:text="Lab1-AppsIOT"
         android:textAlignment="center"
         android:textColor="#000000"
         android:textSize="24sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.333"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

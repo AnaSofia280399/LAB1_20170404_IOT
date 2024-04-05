@@ -1,9 +1,9 @@
-package com.example.repaso_1;
+package com.example.LAB1_20170404;
 
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.annotation.NonNull;
-import android.app.Activity;
+
 import android.os.Bundle;
 import android.util.Log;
 import android.view.Menu;
@@ -12,7 +12,7 @@ import android.view.ViewGroup;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
-import com.example.repaso_1.databinding.HistorialBinding;
+import com.example.LAB1_20170404.databinding.HistorialBinding;
 
 import java.util.ArrayList;
 
