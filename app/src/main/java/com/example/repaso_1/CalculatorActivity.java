@@ -143,7 +143,7 @@ public class CalculatorActivity extends AppCompatActivity {
             popupMenu.getMenuInflater().inflate(R.menu.menu_popup, popupMenu.getMenu());
             popupMenu.setOnMenuItemClickListener(menuItem ->{
 
-                if (menuItem.getItemId() == R.id.historialIcon){
+                if (menuItem.getItemId() == R.id.historial){
                     Intent intent = new Intent(CalculatorActivity.this, HistorialActivity.class) ;
                     intent.putExtra("historialOperaciones", histOperaciones);
                     startActivity(intent);

@@ -72,7 +72,7 @@ public class MainActivity extends AppCompatActivity {
     @Override
     public void onCreateContextMenu(ContextMenu menu, View v, ContextMenu.ContextMenuInfo menuInfo){
         super.onCreateContextMenu(menu, v, menuInfo);
-        menu.setHeaderTitle("Elije un color para Telemath");
+        menu.setHeaderTitle("Elije un color");
         getMenuInflater().inflate(R.menu.menu_inicio, menu);
     }
 

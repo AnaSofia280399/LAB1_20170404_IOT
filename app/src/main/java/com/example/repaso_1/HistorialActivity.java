@@ -34,7 +34,7 @@ public class HistorialActivity extends AppCompatActivity {
             TextView textView = new TextView(HistorialActivity.this);
 
             if(histOperaciones.get(i) != 0.00){
-                textView.setText("Resultado"+(i+1)+histOperaciones.get(i));
+                textView.setText("Resultado "+(i+1)+": "+ histOperaciones.get(i));
 
             }
 

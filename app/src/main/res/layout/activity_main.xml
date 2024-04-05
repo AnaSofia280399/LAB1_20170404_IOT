@@ -93,9 +93,10 @@
 
     <TextView
         android:id="@+id/textView"
-        android:layout_width="271dp"
-        android:layout_height="76dp"
+        android:layout_width="408dp"
+        android:layout_height="68dp"
         android:layout_marginBottom="664dp"
+        android:background="#D7D7D7"
         android:fontFamily="@font/comfortaa"
         android:paddingTop="16dp"
         android:text="Lab1-AppsIOT"
